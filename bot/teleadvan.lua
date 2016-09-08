@@ -248,19 +248,18 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {111984481,103373495,67647823},--Sudo users
+    sudo_users = {217305644},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Creed bot 2.3
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by : @adibnikjoo
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
-   ߔࠀ   @sorblack_creed
-   ߔࠀ   @amircc_creed
-   ߔࠀ   @aria_creed
+   ߔࠀ   @mehrzad_luxuryboy
+   ߔࠀ   @adibnikjoo
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
@@ -411,9 +410,7 @@ function create_config( )
 ❗️Note that: از ! و / استفاده نکنید
 ●•••••••••••••••••••••••••●
 Developers: 
-@janlou
-@amiraliiiiiiiii81
-@bestroid_admin
+:D
 ]],
   }
   serialize_to_file(config, './data/config.lua')
